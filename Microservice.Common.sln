@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{BA4DFFF3-C2A8-44E6-9CC6-8E553CF8233A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservice.Common", "src\Microservice.Common\Microservice.Common.csproj", "{59701971-8112-4248-B158-23FCC606746A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59701971-8112-4248-B158-23FCC606746A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59701971-8112-4248-B158-23FCC606746A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59701971-8112-4248-B158-23FCC606746A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59701971-8112-4248-B158-23FCC606746A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{59701971-8112-4248-B158-23FCC606746A} = {BA4DFFF3-C2A8-44E6-9CC6-8E553CF8233A}
+	EndGlobalSection
+EndGlobal
